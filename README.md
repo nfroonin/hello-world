@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello world!
+
+I'm just a dude who's trying to code.
+I like CS because it's fun.
